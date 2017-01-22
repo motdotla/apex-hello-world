@@ -5,7 +5,7 @@ private class HelloWorldTest {
 		HelloWorld hello_world = new HelloWorld();
 		String result = hello_world.hello();
 
-		system.assertEquals(result, 'Hello World!');
+		system.assertEquals(result, 'Hello World Braj Guru!');
 	} 
 	
 }
